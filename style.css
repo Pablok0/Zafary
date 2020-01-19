@@ -1,0 +1,44 @@
+h2 {
+    color: #469F85;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+}
+main{
+    position: absolute;
+width: 280px;
+height: 230px;
+
+background: #F2FCFF;
+border: 2px solid rgb(15, 221, 159);
+box-sizing: border-box;
+border-radius: 30px;
+}
+
+
+button{
+    position: absolute;
+    left: 25%;
+    right:17%;
+border-bottom-right-radius: 200mm;
+
+background: rgb(58, 230, 178);
+border: 2px solid #469F85;
+border-radius: 100px;
+box-decoration-break: initial;
+box-sizing: border-box;
+
+
+
+}
+div {
+    position: relative;
+left: 0%;
+right: 3%;
+    background: #FFFFFF;
+border: 3px solid #C3F1FF;
+box-sizing: border-box;
+border-radius: 10px;
+align-items: center;
+justify-content: center;
+}
