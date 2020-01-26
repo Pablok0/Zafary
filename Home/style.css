@@ -1,0 +1,60 @@
+header {
+position: absolute;
+background: #333333;
+width: 1000px;
+height: 150px;
+left: 200;
+right: 300;
+}
+h2 {
+    position: absolute;
+left: 45.21%;
+right: 45.21%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+
+color: #FFFFFF;
+}
+
+div{
+    position: auto;
+    width: 233px;
+    height: 600px;
+    left: 41px;
+    top: auto;
+
+    
+    background: #C3F1FF;
+    grid-template-columns: 2px;
+}
+img {
+    position: absolute;
+left: 30%;
+bottom: 20.71%;
+}
+button {
+left: 31.03%;
+right: 28.21%;
+top: -0.96%;
+bottom: 90.01%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 40px;
+color: black;
+
+}
+
+aside {
+ text-align:center
+
+
+}
+
+ 
